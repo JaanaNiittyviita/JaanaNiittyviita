@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am ICT student at LAB University of Applied Sciences in Finland. I'm currently lerning basics of IoT and Unity.
+I am ICT student at LAB University of Applied Sciences in Finland. I'm currently lerning basics of IoT, Linux and Unity.
 <!--
 **JaanaNiittyviita/JaanaNiittyviita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
